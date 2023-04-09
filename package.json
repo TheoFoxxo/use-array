@@ -1,0 +1,21 @@
+{
+  "name": "use-array",
+  "version": "1.0.0",
+  "description": "use-array returns a random fictional characters",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UF"
+  ],
+  "author": "TheodoreTheFox",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
