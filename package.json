@@ -1,13 +1,17 @@
 {
-  "name": "use-array",
-  "version": "1.0.0",
+  "name": "use-arrayyy",
+  "version": "1.2.5",
   "description": "use-array returns a random fictional characters",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "UF"
+    "UF",
+    "Javascript",
+    "Typescript",
+    "Node",
+    "npm"
   ],
   "author": "TheodoreTheFox",
   "license": "ISC",
@@ -17,5 +21,13 @@
   },
   "devDependencies": {
     "@types/node": "^18.15.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheodoreTheFox/use-array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheodoreTheFox/use-array/issues"
+  },
+  "homepage": "https://github.com/TheodoreTheFox/use-array#readme"
 }
