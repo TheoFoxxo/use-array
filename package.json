@@ -1,6 +1,6 @@
 {
   "name": "use-arrayyy",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "use-array returns a random fictional characters",
   "main": "index.ts",
   "scripts": {
